@@ -4,4 +4,4 @@
 
 ![alt text][logo]
 
-[logo]: https://i.imgur.com/FymFIuA.png "bluevariant"
+[logo]: https://i.imgur.com/8jcqnY2.png "bluevariant"
