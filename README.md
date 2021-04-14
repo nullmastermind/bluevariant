@@ -7,5 +7,7 @@
 </div>
 
 ![alt text][logo]
+![alt text][logo1]
 
 [logo]: https://i.imgur.com/8jcqnY2.png "bluevariant"
+[logo1]: https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif "bluevariant"
