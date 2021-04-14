@@ -4,7 +4,11 @@
 
 **🔭 Indie Game Developer. Self-taught programmer. Windows Lover, Passionate about game development.**
 
+<a href="chrome://dino/">
+  
 ![alt text][logo1]
+
+ </a>
 
 </div>
 
