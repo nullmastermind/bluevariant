@@ -1,6 +1,10 @@
+<div align="center">
+  
 ### Hi there 👋
 
-- 🔭 Indie Game Developer. Self-taught programmer. Windows Lover, Passionate about game development.
+**🔭 Indie Game Developer. Self-taught programmer. Windows Lover, Passionate about game development.**
+
+</div>
 
 ![alt text][logo]
 
