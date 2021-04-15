@@ -4,6 +4,8 @@
 
 **Indie Game Developer. Self-taught programmer. Passionate about game development.**
 
+![](https://komarev.com/ghpvc/?username=bluevariant&color=blue)
+
 <a href="chrome://dino/">
   
 ![alt text][logo1]
