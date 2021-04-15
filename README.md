@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=bluevariant&color=blue)
 
 **Indie Game Developer. Self-taught programmer. Passionate about game development.**
 
@@ -13,12 +13,6 @@
 </div>
 
 ![alt text][logo]
-
-<div align="right">
-  
-  ![](https://komarev.com/ghpvc/?username=bluevariant&color=blue)
-  
- </div>
 
 [logo]: https://i.imgur.com/8jcqnY2.png "bluevariant"
 [logo1]: https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif "bluevariant"
