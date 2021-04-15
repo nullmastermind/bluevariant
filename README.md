@@ -2,7 +2,7 @@
   
 ### Hi there 👋
 
-**🔭 Indie Game Developer. Self-taught programmer. Passionate about game development.**
+**Indie Game Developer. Self-taught programmer. Passionate about game development.**
 
 <a href="chrome://dino/">
   
