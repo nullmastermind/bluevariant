@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluevariant&show_icons=true&locale=en" alt="bluevariant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluevariant&" alt="bluevariant" /></p>
+
+![alt text][logo]
+
+[logo]: https://i.imgur.com/8jcqnY2.png "bluevariant"
