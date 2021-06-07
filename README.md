@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/bluevariantdev" target="blank"><img src="https://img.shields.io/twitter/follow/bluevariantdev?logo=twitter&style=for-the-badge" alt="bluevariantdev" /></a> </p>
 
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
 - 👨‍💻 All of my projects are available at [https://github.com/bluevariant?tab=repositories](https://github.com/bluevariant?tab=repositories)
 
 - 💬 Ask me about **unity engine, react, vue, flutter, nodejs, rust and python.**
