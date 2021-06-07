@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **unity engine, react, vue, flutter, nodejs, rust and python.**
 
-- 📫 How to reach me **0x317374@gmail.com**
+- 📫 How to reach me **connect@dongnv.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dong-nguyen-4607481b2/](https://www.linkedin.com/in/dong-nguyen-4607481b2/)
 
