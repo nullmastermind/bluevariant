@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bluevariant?tab=repositories](https://github.com/bluevariant?tab=repositories)
 
-- 💬 Ask me about **unity engine, react, vue, flutter, nodejs, rust and python.**
+- 💬 Ask me about **'unity engine' 'react' 'vue' 'flutter' 'nodejs' 'rust' and 'python'.**
 
 - 📫 How to reach me **hi@dongnv.dev**
 
