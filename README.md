@@ -9,7 +9,7 @@
 
 <img align ="right" src = "https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="130" height="130">
 
-- 👨‍💻 All of my projects are available at [https://github.com/bluevariant?tab=repositories](https://github.com/bluevariant?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/bluemutant?tab=repositories)
 
 - 💬 Ask me about **'unity engine' 'react' 'vue' 'flutter' 'nodejs' 'rust' and 'python'.**
 
