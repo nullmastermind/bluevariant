@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bluevariantdev" target="blank"><img src="https://img.shields.io/twitter/follow/bluevariantdev?logo=twitter&style=for-the-badge" alt="bluevariantdev" /></a> </p>
 
-<img align ="right" src = "https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="130" height="130">
+<img align ="right" src="https://i.imgur.com/P67ITC6.png" width="130" height="130">
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/bluevariant?tab=repositories)
 
@@ -33,5 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluevariant&" alt="bluevariant" /></p>
 
 ![alt text][logo]
+![alt text][image1]
 
 [logo]: https://i.imgur.com/8jcqnY2.png "bluevariant"
+[image1]: https://i.imgur.com/4nV9M3r.png "bluevariant"
