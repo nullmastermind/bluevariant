@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hi@dongnv.dev**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dong-nguyen-4607481b2/](https://www.linkedin.com/in/dong-nguyen-4607481b2/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/dong-nguyen-4607481b2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
