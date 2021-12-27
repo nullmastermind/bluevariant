@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/dong-nguyen-4607481b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dong-nguyen-4607481b2" height="30" width="40" /></a>
 <a href="https://fb.com/dev.nvdong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.nvdong" height="30" width="40" /></a>
 <a href="https://discord.gg/p8dgcvDb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p8dgcvDb" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/6435579/bluevariant" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="bluevariant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
