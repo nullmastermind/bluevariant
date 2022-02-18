@@ -44,7 +44,7 @@
 
 ## <code>ART</code>
 
-<p>My art style is weird. If it discomforted you, sorry</p>
+<p>My art style is so weird. If it discomforted you, sorry</p>
 
 ![alt text][logo]
 ![alt text][image1]
