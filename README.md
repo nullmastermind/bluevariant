@@ -10,6 +10,8 @@
   </p>
 </div>
 
+## <code>DEV</code>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluevariant&margin-w=15&margin-h=15&column=7" alt="bluevariant" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bluevariantdev" target="blank"><img src="https://img.shields.io/twitter/follow/bluevariantdev?logo=twitter&style=for-the-badge" alt="bluevariantdev" /></a> </p>
@@ -39,6 +41,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluevariant&show_icons=true&locale=en" alt="bluevariant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluevariant&" alt="bluevariant" /></p>
+
+## <code>ART</code>
+
+<p>My art style is weird. If it discomforted you, sorry</p>
 
 ![alt text][logo]
 ![alt text][image1]
