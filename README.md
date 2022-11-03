@@ -14,7 +14,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluevariant&margin-w=15&margin-h=15&column=7" alt="bluevariant" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bluevariantdev" target="blank"><img src="https://img.shields.io/twitter/follow/bluevariantdev?logo=twitter&style=for-the-badge" alt="bluevariantdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bluevariantdev" target="blank">
+  <img src="https://img.shields.io/twitter/follow/bluevariantdev?logo=twitter&style=for-the-badge" alt="bluevariantdev" /></a> </p>
 
 <img align ="right" src="https://i.imgur.com/P67ITC6.png" width="130" height="130">
 
@@ -33,6 +34,7 @@
 <a href="https://fb.com/dev.nvdong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.nvdong" height="30" width="40" /></a>
 <a href="https://discord.gg/p8dgcvDb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p8dgcvDb" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/6435579/bluevariant" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="bluevariant" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCBa-PBE84g8pWbfqaMPKG9Q" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Dong Nguyen" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
